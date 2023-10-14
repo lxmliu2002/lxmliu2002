@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently an undergraduate student at Nankai University.
 - 🌱 I’m currently learning everything I like.
-- 📫 Please feel free to [contact me](mailto:lxmliu2002@126.com) if you are interested in my projects!
+- 📫 Please feel free to [contact me : lxmliu2002@126.com](mailto:lxmliu2002@126.com) if you are interested in my projects!
 
 ### My Skill Set
 
