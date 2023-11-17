@@ -1,5 +1,7 @@
 ### Hi there 👋,I'm lxmliu2002.
 
+### 来都来了，留个 FOLLOW，点个 STAR 呗～
+
 <p align="left">
   <img src = "https://github-readme-stats.vercel.app/api?username=lxmliu2002&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lxmliu2002&hide_border=true&langs_count=3"/>
