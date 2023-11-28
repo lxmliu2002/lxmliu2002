@@ -9,6 +9,6 @@
 
 - 🔭 I’m currently an undergraduate student at Nankai University.
 - 🌱 I’m currently learning everything I like.
-- 📫 Please feel free to [contact me : lxmliu2002@126.com](mailto:lxmliu2002@126.com) if you are interested in my projects!
+- 📫 Please feel free to [contact me : lxmliu2002@126.com](mailto:lxmliu2002@gmail.com) if you are interested in my projects!
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/lxmliu2002/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
