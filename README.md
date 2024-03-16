@@ -1,4 +1,4 @@
-### Hi there 👋,I'm lxmliu2002.
+### Hi there 👋,I'm lxmliu2002. [This is my plog.](https://lxmliu2002.github.io/)
 
 ### 来都来了，留个 `FOLLOW`，点个 `STAR` 呗～
 
