@@ -5,12 +5,12 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lxmliu2002&hide_border=true&langs_count=3"/>
 </p>
 
-- 🔭 I’m currently an undergraduate student at Nankai University.
-- 🌱 I’m currently learning everything I like.
+- 🎓 Undergraduate student at Nankai University.
+- 💼 Intern at Ant Group.
+- 🌱 Always eager to learn and explore new things.
+- 💻 Interested in various areas of computer science.
 - 📫 Please feel free to [contact me : lxmliu2002@gmail.com](mailto:lxmliu2002@gmail.com) if you are interested in my projects!
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/lxmliu2002/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+整理了南开大学计算机学院和密码与网络空间安全学院的部分课程资料：[https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU)
 
-整理了南开大学计算机学院和网络空间安全学院的课程资料，需要的自取，会定期更新（指每学期结束）。[这是链接](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU)
-
-* 大三下内容已更新
+*"A little ant who never stops learning."* 🐜
