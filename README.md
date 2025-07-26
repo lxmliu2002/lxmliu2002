@@ -5,7 +5,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lxmliu2002&hide_border=true&langs_count=3"/>
 </p>
 
-- 🎓 Undergraduate student at Nankai University.
+- 🎓 Graduate from Nankai University
 - 💼 Intern at Ant Group.
 - 🌱 Always eager to learn and explore new things.
 - 💻 Interested in various areas of computer science.
