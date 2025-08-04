@@ -3,7 +3,6 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=lxmliu2002&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmliu2002&hide_border=true&langs_count=3" /></td>
   </tr>
 </table>
 
