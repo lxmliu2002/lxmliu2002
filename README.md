@@ -16,3 +16,4 @@
 
 *"A little ant who never stops learning."* 🐜
 
+🔒 Our team is affiliated with the ([Institute of Information Security and Cryptology](https://www.cs.sjtu.edu.cn/yjjg/807.html)), School of Computer Science, Shanghai Jiao Tong University. We welcome students passionate about AI security, multi-agent systems, and AI for Medical applications—**❗including prospective master’s/PhD students and research interns❗**. We can offer guidance on **❗paper writing, industry-oriented project development, and can provide recommendation letters❗**.
