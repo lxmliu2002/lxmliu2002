@@ -30,23 +30,15 @@ My research focuses on building safe, reliable, and transparent AI systems. I am
 
 ### How Far Does the Poison Travel? Benchmarking Protocol Exploits Across Long-Horizon Tasks in Multi-Agent Systems
 
-**Xiuming Liu** · First Author · Under Review
-
-- Introduces PROTOECHO, an end-to-end benchmark for protocol risks across A2A, ANP, and BCS.
-- Evaluates 975 matched malicious-benign task pairs across five domains and three frontier models.
-- Connects local exploitability with multi-agent propagation, task consequences, auditability, and mitigation.
+First Author · Under Review
 
 ### [Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming)
 
 **USENIX Security 2026** · Co-first Author
 
-[Paper](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming) · [Artifact](https://github.com/lxmliu2002/LLM-Attack-Cognition-AE)
-
 ### [SoK: Robustness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2605.05058)
 
 **IEEE Symposium on Security and Privacy 2026** · Core Contributor
-
-[Paper](https://arxiv.org/abs/2605.05058) · [Artifact](https://github.com/XOTaichi/Security-Cube-Artifact)
 
 ## Experience
 
